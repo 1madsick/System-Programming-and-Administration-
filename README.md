@@ -41,5 +41,5 @@ To run the program, execute the `todo.sh` script from the command line.
 
 Example:
 ```bash
-./todo.sh [command] (you can add options)
+./todo.sh [command] 
 
